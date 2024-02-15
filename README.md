@@ -1,0 +1,2 @@
+# latihanNong
+untuk melatih fork

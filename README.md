@@ -1,2 +1,3 @@
 # latihanNong
-untuk melatih fork
+untuk melatih fork  
+ini contoh
